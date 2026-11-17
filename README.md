@@ -12,10 +12,14 @@ En este proyecto desarrollamos habilidades de numeros aleatorios con visualizaci
 
 En este programa se va a simular el comportamiento de una maquina de galton famosas por su singular manera e mover una pequeña camica atraves de unas columnas llegando a diferentes puntos 
     
-### Simulacion: Este sera un proceso de 3000 canicas atraves de 12 niveles de decisiones independientes ya se izquierda o derecha automaticante ella ara el calculo para determinar donde llegara primero y con mayor probabilidad
-### Estructura de funciones: El programa estara compuesto por codigos usados atraves del curso en este caso sera dividido modularmente en funciones distintas se las explicare de maneras individuales
-### Calculadora de galton: Esta sera la encargada de realizar el calculo de la terminacion final o la posicion final de las canicas en este caso sobre las columnas o mejor dicho los contenedores usados
-### Grafica de histograma: En esta se representaran los datos en ambos ejes, tanto la cantidad como la posicion de la canica de este modo se representa cada accion echa
+## Simulacion:
+Este sera un proceso de 3000 canicas atraves de 12 niveles de decisiones independientes ya se izquierda o derecha automaticante ella ara el calculo para determinar donde llegara primero y con mayor probabilidad
+## Estructura de funciones:
+El programa estara compuesto por codigos usados atraves del curso en este caso sera dividido modularmente en funciones distintas se las explicare de maneras individuales
+## Calculadora de galton:
+Esta sera la encargada de realizar el calculo de la terminacion final o la posicion final de las canicas en este caso sobre las columnas o mejor dicho los contenedores usados
+## Grafica de histograma:
+En esta se representaran los datos en ambos ejes, tanto la cantidad como la posicion de la canica de este modo se representa cada accion echa
 
 ## Restricciones tecnicas 
 Se implementa sin utilizar funciones de distribusion normales predefinidas, modelando el comportamiento fisico de forma algoritmica
